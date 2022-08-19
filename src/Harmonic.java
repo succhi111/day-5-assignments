@@ -17,3 +17,9 @@ public class Harmonic {
         }
     }
 }
+//   Harmonic number for 5 values---
+//   H1=1
+//   H2=H1+1/2
+//   H3=H2+1/3
+//   H4=H3+1/4
+//   H5=H4+1/5
