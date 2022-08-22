@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 public class Distance {
     public static void main(String[] args) {
-        Scanner ref=new Scanner(System.in);
+
         System.out.println("Enter the value of X");
+        Scanner ref=new Scanner(System.in);
         int x= ref.nextInt();
 
         System.out.println("Enter the value of Y");
